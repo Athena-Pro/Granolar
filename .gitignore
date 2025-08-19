@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.vite/
+*.log
+coverage/
+.DS_Store
+Thumbs.db
+.env
+.env.local
+.env.*.local
+.env.production
+.env.development
+exports/
+*.wav
+*.mp3
