@@ -1,0 +1,5 @@
+{
+  "name": "Granolar",
+  "description": "An advanced audio synthesizer that uses mathematical concepts like chaotic systems, fractal harmonics, and microtonal scaling to generate complex sounds. Features real-time parameter looping, spectral morphing, and interactive visualizations.",
+  "requestFramePermissions": []
+}
