@@ -15,7 +15,7 @@ Copy `.env.example` to `.env.local` and add your `VITE_GEMINI_API_KEY`.
 
 ## Live Demo
 
-[View the demo](https://<username>.github.io/<repo>/)
+[View the demo](https://<username>.github.io/Granolar/)
 
 ## Deploy
 

@@ -1,0 +1,4 @@
+/* Minimal stylesheet for GitHub Pages demo */
+body {
+  /* Tailwind handles most styling; this file ensures build steps include a CSS asset. */
+}
