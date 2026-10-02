@@ -13,10 +13,6 @@ npm run dev
 
 Copy `.env.example` to `.env.local` and add your `VITE_GEMINI_API_KEY`.
 
-## Live Demo
-
-[View the demo](https://<username>.github.io/Granolar/)
-
 ## Deploy
 
 Pushing to `main` runs the [GitHub Pages workflow](.github/workflows/deploy.yml) which:
